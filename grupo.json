@@ -1,0 +1,14 @@
+{
+    "_default": {
+        "1": {
+            "id": -1001807528178,
+            "tipo": "supergroup",
+            "titulo": "teste grupo"
+        },
+        "2": {
+            "id": 673195223,
+            "tipo": "private",
+            "titulo": null
+        }
+    }
+}
